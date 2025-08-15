@@ -59,6 +59,7 @@ Choose output format (JPEG/PNG/WebP)
 Set image quality (1–100)
 
 📷 Example Output
+
 1️⃣ Running the Tool
 
 Replace this with your actual terminal screenshot after running the script.
